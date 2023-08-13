@@ -1,16 +1,25 @@
-# my_kitchen
+# My Kitchen
 
-A new Flutter project.
+My Recipe App is a beautiful and feature-rich recipe management application.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Dark and Light Theme: Enjoy a visually appealing experience with the option to switch between dark and light themes.
+- Beautiful UI: The app offers a stunning and intuitive user interface that enhances the recipe browsing and management experience.
+- Riverpod State Management: The app utilizes Riverpod for efficient and predictable state management, ensuring a smooth user experience.
+- Favorite Recipes: Mark your favorite recipes to quickly access them later and never lose your go-to recipes.
+- Share Recipes: Easily share your favorite recipes with your friends and family via various sharing options.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![recipe app](https://github.com/mohammadzamaniaf/My-Kitchen/assets/132151000/d2f64528-710c-4543-91d6-344775b7f4a0)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clone this repository.
+2. Run flutter pub get to install the required dependencies.
+3. Run the app using flutter run.
+
+## Contributing
+
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository.
